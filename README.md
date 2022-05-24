@@ -1,11 +1,29 @@
-# Sample Snack app
+<div id="top"></div>
 
-Open the `App.js` file to start writing some code. You can preview the changes directly on your phone or tablet by scanning the **QR code** or use the iOS or Android emulators. When you're done, click **Save** and share the link!
+<br />
+<div align="center">
+  <a>
+    <img src="https://img.icons8.com/stickers/344/sun.png" alt="Logo" width="80" height="80">
+  </a>
 
-When you're ready to see everything that Expo provides (or if you want to use your own editor) you can **Download** your project and use it with [expo-cli](https://docs.expo.io/get-started/installation).
+  <h3 align="center">Weather Mobile App</h3>
 
-All projects created in Snack are publicly available, so you can easily share the link to this project via link, or embed it on a web page with the `<>` button.
+  <p align="center">
+    Simple React Native app to search any cities weather
+    <br />
+  </p>
+</div>
 
-If you're having problems, you can tweet to us [@expo](https://twitter.com/expo) or ask in our [forums](https://forums.expo.io/c/snack).
 
-Snack is Open Source. You can find the code on the [GitHub repo](https://github.com/expo/snack).
+### Built With
+
+* [React-Native](https://reactnative.dev/)
+
+
+## Contact
+
+Otavio - [@otascar](https://twitter.com/otascar) - contato@otaviocarmo.com.br
+
+Project Link: [https://github.com/OtavioSC/Weather-Mobile-App](https://github.com/OtavioSC/Weather-Mobile-App)
+
+
